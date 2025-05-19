@@ -2,7 +2,7 @@
   "kitablar": [
     {
       "id": 1,
-      "name": "Anna Kareninaa",
+      "name": "Anna Karenina",
       "author": "Lev Tolstoy",
       "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/7bb4b02e-faef-11ed-a519-503eaa120fc7_1.jpg.webp",
       "price": 12.72,
@@ -88,7 +88,7 @@
       "id": 7,
       "name": "Sapiens",
       "author": "Yuval Noah Harari",
-      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/sapiens.jpg.webp",
+      "img": "https://kitabal.az/img/books/4878748.jpg",
       "price": 18.20,
       "desc": "İnsan növünün tarixi haqqında dərin təhlil.",
       "category": "Tarix",
@@ -102,7 +102,7 @@
       "id": 8,
       "name": "Alkimyagər",
       "author": "Paulo Coelho",
-      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/alkimyager.jpg.webp",
+      "img": "https://kitabal.az/thumb.php?src=http://kitabal.az/img/books/8262653.jpg&h=500",
       "price": 9.80,
       "desc": "Öz yolunu axtaran gəncin simvolik səyahəti.",
       "category": "Bədii",
@@ -116,7 +116,7 @@
       "id": 9,
       "name": "Zəka ilə düşün",
       "author": "Daniel Kahneman",
-      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/thinkingfast.jpg.webp",
+      "img": "https://static.insales-cdn.com/images/products/1/4828/222851804/Daniel_Goleman_Qapaq.png",
       "price": 16.00,
       "desc": "İnsan təfəkkürünün iki sistemi haqqında.",
       "category": "Psixologiya",
@@ -130,7 +130,7 @@
       "id": 10,
       "name": "Cinayət və cəza",
       "author": "Fyodor Dostoyevski",
-      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/crimepunishment.jpg.webp",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPiCQHqiwyWg9Gk7koA7jWweqaR8DtahEOFg&s",
       "price": 13.75,
       "desc": "Psixoloji dərinliklə yazılmış klassik əsər.",
       "category": "Klassik",
@@ -144,7 +144,7 @@
       "id": 11,
       "name": "NLP ilə özünü tanı",
       "author": "Turan Demir",
-      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/nlpbook.jpg.webp",
+      "img": "https://novella.az/wp-content/uploads/2020/08/Webp.net-compress-image627.jpg",
       "price": 10.30,
       "desc": "Neuro-Linqvistik Proqramlaşdırma texnikaları ilə özünü inkişaf.",
       "category": "Şəxsi inkişaf",
@@ -158,7 +158,7 @@
       "id": 12,
       "name": "Kosmosun sirri",
       "author": "Stephen Hawking",
-      "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/hawkingbook.jpg.webp",
+      "img": "data:image/jpeg;base64,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",
       "price": 15.60,
       "desc": "Kosmos və zamanın təbiəti haqqında izahlı kitab.",
       "category": "Elmi",
@@ -167,13 +167,94 @@
       "isBought": false,
       "sales": 0,
       "view": 0
+    },
+    {
+      "id": 13,
+      "name": "Atomic Habits",
+      "author": "James Clear",
+      "img": "https://m.media-amazon.com/images/I/81ANaVZk5LL._AC_UF1000,1000_QL80_.jpg",
+      "price": 17.40,
+      "desc": "Kiçik vərdişlərlə böyük dəyişikliklərə aparan praktiki bələdçi.",
+      "category": "Şəxsi inkişaf",
+      "altCateg": ["Vərdiş", "Motivasiya"],
+      "lang": ["AZ", "EN"],
+      "isBought": false,
+      "sales": 0,
+      "view": 0
+    },
+    {
+      "id": 14,
+      "name": "Qürur və Qərəz",
+      "author": "Jane Austen",
+      "img": "https://kitabal.az/img/books/5416243.PNG",
+      "price": 13.20,
+      "desc": "İngilis ədəbiyyatının ən sevilən klassik romanlarından biri.",
+      "category": "Klassik",
+      "altCateg": ["Roman", "Sevgi"],
+      "lang": ["AZ", "EN"],
+      "isBought": false,
+      "sales": 0,
+      "view": 0
+    },
+    {
+      "id": 15,
+      "name": "Qara Qutu",
+      "author": "Matthew Syed",
+      "img": "https://www.qanun.az/images/news/compressed/2021-10-27-12-49-371635324577.jpg",
+      "price": 14.60,
+      "desc": "Uğursuzluqlardan öyrənmə və davamlı inkişaf haqqında.",
+      "category": "Şəxsi inkişaf",
+      "altCateg": ["Analitik düşüncə", "Motivasiya"],
+      "lang": ["AZ", "EN"],
+      "isBought": false,
+      "sales": 0,
+      "view": 0
+    },
+    {
+      "id": 16,
+      "name": "Dune",
+      "author": "Frank Herbert",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4nE5P30PM4sXH9ICv1Xu6Z7V2L4U7rXVnpw&s",
+      "price": 19.99,
+      "desc": "Elm və siyasətin iç-içə olduğu futuristik bir dünyada baş verənlər.",
+      "category": "Elmi-fantastika",
+      "altCateg": ["Fantastika", "Siyasət"],
+      "lang": ["AZ", "EN"],
+      "isBought": false,
+      "sales": 0,
+      "view": 0
+    },
+    {
+      "id": 17,
+      "name": "Uğur psixologiyası",
+      "author": "Carol S. Dweck",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_W8TROu6L7MXwD3dJumkCvP5XcbhM36oe7g&s",
+      "price": 13.50,
+      "desc": "İnkişaf yönümlü düşüncə ilə uğura gedən yol.",
+      "category": "Psixologiya",
+      "altCateg": ["Şəxsi inkişaf", "Motivasiya"],
+      "lang": ["AZ", "EN"],
+      "isBought": false,
+      "sales": 0,
+      "view": 0
+    },
+    {
+      "id": 18,
+      "name": "Fərqli düşün",
+      "author": "Adam Grant",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE_0yqjwcqrgrEVsujTQkWlQcWsKbW7CFIag&s",
+      "price": 16.70,
+      "desc": "Yaradıcı insanların dünyaya necə təsir etdiyini araşdıran kitab.",
+      "category": "Fəlsəfə",
+      "altCateg": ["İnnovasiya", "Psixologiya"],
+      "lang": ["AZ", "EN"],
+      "isBought": false,
+      "sales": 0,
+      "view": 0
     }
   ],
-  "comments": [
+  "comments": [],
+  "slides": [
     
-  ],
-  "slides":[
-   
   ]
-
 }
